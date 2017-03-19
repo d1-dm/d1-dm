@@ -1,4 +1,4 @@
-# d1-dm/*
+/*
 * Allofthelights.js by Pierre VION site http://www.pierrevion.fr/
 * Defer Iframe by kompiajaib and varvy.com/pagespeed
 */
